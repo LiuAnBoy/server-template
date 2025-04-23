@@ -6,6 +6,12 @@
 curl -L https://codeload.github.com/liuanboy/server-template/tar.gz/master | tar -xz --strip=1 server-template-master/node-express-ts
 ```
 
+## NODEJS + EXPRESS + TypeScript + PostgreSQL Template
+
+```
+curl -L https://codeload.github.com/liuanboy/server-template/tar.gz/master | tar -xz --strip=1 server-template-master/node-express-pg-ts
+```
+
 ---
 
 ## Starting the Development Server
